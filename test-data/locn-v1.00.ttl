@@ -1,0 +1,11 @@
+<http://www.lanuv.nrw.de/osiris/geometries/adce33b2-42c6-469a-8aac-27860d51df0b> <http://www.opengis.net/ont/geosparql#asWKT> "POINT (8.46035239692792 51.48661096320327)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://www.lanuv.nrw.de/osiris/geometries/adce33b2-42c6-469a-8aac-27860d51df0a> <http://www.opengis.net/ont/geosparql#asWKT> "POINT (8.123 51.48123)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://www.lanuv.nrw.de/osiris/geometries/adce33b2-42c6-469a-8aac-27860d51df0c> <http://www.opengis.net/ont/geosparql#asWKT> "POINT (12.792 12.123)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://www.lanuv.nrw.de/osiris/geometries/adce33b2-42c6-469a-8aac-27860d51df0d> <http://www.opengis.net/ont/geosparql#asWKT> "POINT (34.324 78.213)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://www.lanuv.nrw.de/osiris/geometries/adce33b2-42c6-469a-8aac-27860d51df0e> <http://www.opengis.net/ont/geosparql#asWKT> "POINT (8.4603523962 36.48661096320327)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://www.lanuv.nrw.de/osiris/geometries/adce33b2-42c6-469a-8aac-27860d51df0f> <http://www.opengis.net/ont/geosparql#asWKT> "POINT (8.460352 5.48661096320327)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://www.lanuv.nrw.de/osiris/geometries/adce33b2-42c6-469a-8aac-27860d51df0g> <http://www.opengis.net/ont/geosparql#asWKT> "POINT (8.469692792 51.48320327)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://www.lanuv.nrw.de/osiris/geometries/adce33b2-42c6-469a-8aac-27860d51df0h> <http://www.opengis.net/ont/geosparql#asWKT> "POINT (43.234 32.453)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://www.lanuv.nrw.de/osiris/geometries/adce33b2-42c6-469a-8aac-27860d51df0i> <http://www.opengis.net/ont/geosparql#asWKT> "POINT (23.43534 42.12321)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+
+
