@@ -20,3 +20,10 @@ WHERE {
 ?bGeom geo:asWKT ?bWKT .
 FILTER (geof:distance(?bWKT,"POINT(8.46035239692792 51.48661096320327)"^^geo:wktLiteral,uni:km)<10)
 }
+
+For more info - https://dev.opensahara.com/projects/useekm/wiki/GeoReference
+-http://sourceforge.net/apps/mediawiki/bigdata/index.php?title=CustomFunction
+
+
+Currently only geof:distance have been added. Others ccould be added. Since its not a big deal.
+For my work i just require Distance. Surely i shall update the others if time permits!!
